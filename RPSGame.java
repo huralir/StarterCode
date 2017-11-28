@@ -78,7 +78,6 @@ public class RPSGame implements Game
      */
     public boolean continueGame() {
           
-        
         return false;
     }
 
